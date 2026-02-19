@@ -252,7 +252,7 @@ a {
 }
 
 .page .cont-box .app-box {
-    width: 200%;
+    width: 100%;
     margin-top: 3.2vw;
     display: flex;
     flex-wrap: wrap
@@ -266,12 +266,12 @@ a {
     justify-content: center;
     align-items: center;
     overflow: hidden;
-    margin-right: 0.0vw;
-    margin-bottom: 0.0vw
+    margin-right: 1.3333333333vw;
+    margin-bottom: 0.5333333333vw
 }
 
 .page .cont-box .app-box a:nth-child(4n) {
-    margin-right: 1
+    margin-right: 0
 }
 
 .page .cont-box .app-box a img {
